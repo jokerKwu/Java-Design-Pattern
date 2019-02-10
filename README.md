@@ -11,6 +11,7 @@
 5. 싱글턴 (Singleton)
 
 구조 패턴 - 클래스나 객체를 조합해 더 큰 구조를 만드는 패턴이다.
+
 6. 어댑터  (Adapter)
 7. 브리지  (Bridge)
 8. 컴퍼지트 (Composite)
@@ -20,6 +21,7 @@
 12. 프록시 (Proxy)
 
 행위 패턴 - 객체나 클래스 사이의 알고리즘이나 책임 분배에 관련된 패턴이다.
+
 13. 책임 연쇄   (Chain of Responsibility)
 14. 커맨드 (Command)
 15. 인터프리터   (Interpreter)
